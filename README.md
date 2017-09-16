@@ -29,7 +29,7 @@ async function test () {
 
   await delay(1000);
 
-  // Overrides "I'm not gonna be visible" and prints "Nice one" with a newline
+  // Prints "That's it." with a newline
   cr.end('That\'s it.');
 }
 test();
