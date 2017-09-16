@@ -1,0 +1,29 @@
+{
+  "name": "carriage-return",
+  "version": "1.0.0",
+  "description": "Small utility to make use of the carriage-return character, e.g. as a progress indicator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbrandau/carriage-return.git"
+  },
+  "keywords": [
+    "carriage",
+    "return",
+    "cr",
+    "progress",
+    "indicator"
+  ],
+  "author": "Maximilian Brandau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbrandau/carriage-return/issues"
+  },
+  "homepage": "https://github.com/mbrandau/carriage-return#readme",
+  "dependencies": {
+    "delay": "^2.0.0"
+  }
+}
